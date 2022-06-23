@@ -1,5 +1,5 @@
 # Blog-Website
-This is my ull Stack Web Development Project 
+This is my First Full Stack Web Development Project 
 Live Website: https://srenath-blogwebsite.herokuapp.com/
 It's about expressing my interest to others in my machine learning, deep learning models and other media published online on my website.
 
